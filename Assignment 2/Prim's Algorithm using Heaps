@@ -1,0 +1,4 @@
+Implemntation of Prim's algorithm using Binary Heap, Binomial Heap and Fibonacci Heap
+Output:
+g++ newmain.cpp
+./a.out input.txt
